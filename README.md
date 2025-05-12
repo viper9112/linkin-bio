@@ -1,5 +1,3 @@
-# static-html-template
-My Website
-First website about me and my interest leading to websites on the topics. Used HTML and CSS to code the website and render to display the website.
+# Link In Bio Assignment
 
-Use this template to create static HTML websites and deploy them on Render.
+First website about me and my interest Used HTML and CSS to code the website and render to display the website.
